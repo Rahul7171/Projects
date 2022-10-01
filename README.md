@@ -1,9 +1,4 @@
-<h1 align="center">
-  <a href="https://projectlearn.io"><img src="https://i.ibb.co/YycTZq4/Screen-Shot-20200830180734-removebg-preview.png" alt="ProjectLearn"></a>
-</h1>
-
-    
-</p>
+# Learn By Doing
 
 Tutorials are great, but building projects is the best way to learn. Do project based learning and learn code the right way!
   
